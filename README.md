@@ -1,4 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm 迪
+
+🚀 AI Engineer  
+💡 Focus on model deployment & AI agent. 
+
+## 🔧 Tech Stack
+- Python / Rust
+- Transformer / ASR / LLM
+- vLLM
+
+## 📫 Contact
+- Email: 790990241@qq.com
 
 <!--
 **di-osc/di-osc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
