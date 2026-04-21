@@ -1,12 +1,11 @@
 # 👋 Hi, I'm 迪
 
 🚀 AI Engineer  
-💡 Focus on model deployment & AI agent. 
+💡 Focus on AI Infra & AI Agent. 
 
 ## 🔧 Tech Stack
 - Python / Rust
-- Transformer / ASR / LLM
-- vLLM
+- Pytorch
 
 ## 📫 Contact
 - Email: 790990241@qq.com
