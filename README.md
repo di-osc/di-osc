@@ -10,6 +10,7 @@
 ## 📫 Contact
 - Website: https://mengdi.life/
 - Email: 790990241@qq.com
+- Libraries: https://libraries-six.vercel.app/
 
 <!--
 **di-osc/di-osc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
