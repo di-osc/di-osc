@@ -5,7 +5,6 @@
 
 ## 🔧 Tech Stack
 - Python / Rust
-- Pytorch
 
 ## 📫 Contact
 - Website: https://mengdi.life/
