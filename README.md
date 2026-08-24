@@ -1,13 +1,13 @@
-# 👋 Hi, I'm 迪
+# 👋 你好，我是di-osc（王梦迪）
 
-🚀 AI Engineer  
-💡 Focus on AI Infra & AI Agent. 
+🚀 职业：算法工程师 
+💡 目标：努力成为一名更好的程序员
 
-## 🔧 Tech Stack
-- Python / Rust
+## 🔧 技术栈
+- 语言：Python / Rust
 
-## 📫 Contact
-- Email: 790990241@qq.com
+## 📫 联系我
+- 邮箱: 790990241@qq.com
 
 <!--
 **di-osc/di-osc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
