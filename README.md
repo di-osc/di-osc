@@ -4,7 +4,7 @@
 
 ## 🔧 技术栈
 - 编程语言：Python / Rust
-- 工作范围：模型推理 / 语音智能体
+- 工作兴趣：AI Infra / Voice Agent
 
 ## 📫 联系我
 - 邮箱: 790990241@qq.com
