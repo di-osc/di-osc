@@ -3,8 +3,8 @@
 算法工程师，正努力成为一名更加优秀的程序员。
 
 ## 🔧 技术栈
-- 编程语言：Python / Rust
-- 工作兴趣：AI Infra / Voice Agent
+- 编程语言：Python、Rust
+- 工作兴趣：AI Infra、Voice Agent
 
 ## 📫 联系我
 - 邮箱: 790990241@qq.com
